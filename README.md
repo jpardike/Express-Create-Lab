@@ -1,8 +1,8 @@
 ### EXPRESS CREATE: ADD VIEW LAYER TO PRODUCTS APP
 
-* this repo includes starter code (so clone it. u don't need to fork ittho.)
+* this repo includes starter code, so be sure to clone this repo.
 
-* `npm install` to install dependencies. while you're watching the modules download think to yourself: **What is the importance of this part of the process? Why am I this?**
+* `npm install` to install dependencies. While you're watching the modules download think to yourself: **What is the importance of this part of the process? Why am I doing this?**
 
 
 
